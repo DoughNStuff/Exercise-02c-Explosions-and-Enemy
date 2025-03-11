@@ -120,7 +120,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 6b163bfa2bca382469f27c9b8304f894, type: 2}
+    - {fileID: 11400000, guid: 519592864cd609a4485347fec3478a28, type: 2}
 --- !u!50 &2888120219562929921
 Rigidbody2D:
   serializedVersion: 4
